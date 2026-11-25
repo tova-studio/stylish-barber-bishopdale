@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T03:58:40.690Z",
+  "slug": "g-co",
+  "name": "Stylish Barber Bishopdale",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Hair salons & barbers",
+    "niche": "hair salons & barbers",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+64224889873",
+    "email": "press@google.com",
+    "address": "11B Bishopdale Ct, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/720791064447538",
+    "youtube": "https://www.youtube.com/watch"
+  },
+  "about": {
+    "overview": "Neon brings frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows."
+  },
+  "before": {
+    "url": "https://g.co/kgs/pgECsN3",
+    "domain": "g.co",
+    "finalUrl": "https://www.google.com/search?sca_esv=f2d37a307d9ff73f&cs=0&output=search&kgmid=/g/11x77qt5hs&q=Stylish+Barber+Bishopdale&shndl=30&shem=lcuae,lspt7,uaasie&source=sh/x/loc/uni/m1/1&kgs=fd1f8e52b8f3cf2c",
+    "title": "Google Search",
+    "pages": 2,
+    "score": 56,
+    "assessedAt": "2026-11-24T13:16:30.750Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/stylish-barber-bishopdale/",
+    "repoUrl": "https://github.com/tova-studio/stylish-barber-bishopdale",
+    "generator": "claude",
+    "accent": "#1558d6",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T03:58:40.690Z"
+  }
+}
